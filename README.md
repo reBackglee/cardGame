@@ -1,7 +1,7 @@
 # React + Vite
 
 
-👉 **[Canlı Siteyi Görüntüle]([[melodious-manatee-dadbe8.netlify.app](https://melodious-manatee-dadbe8.netlify.app/)](https://melodious-manatee-dadbe8.netlify.app/))**
+👉 **[Canlı Siteyi Görüntüle]((https://melodious-manatee-dadbe8.netlify.app/))**
 
 
 
